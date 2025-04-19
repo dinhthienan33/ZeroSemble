@@ -1,0 +1,20 @@
+#################### Entity Identification ####################
+{'总样本数': 246, 'P': 56.67, 'R': 54.66, 'F1': 55.65}
+Correct Mention list: 6697
+Predict Mentions: 11818
+GT Mentions: 12253
+#################### Entity Classification ####################
+{'总样本数': 246, 'P': 26.59, 'R': 25.64, 'F1': 26.11}
+Correct Mention Classfication: 3142
+Predict Mentions Classfication: 11818
+GT Mentions Classfication: 12253
+#################### RE General Mode ######################
+{'总样本数': 246, 'P': 3.74, 'R': 4.76, 'F1': 4.19}
+Correct Relations: 188
+Predict Relations: 5031
+GT Relations: 3949
+#################### RE Strict Mode ######################
+{'总样本数': 246, 'P': 3.58, 'R': 4.56, 'F1': 4.01}
+Correct Relations: 180
+Predict Relations: 5031
+GT Relations: 3949

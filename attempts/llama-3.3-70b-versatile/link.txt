@@ -1,0 +1,4 @@
+1. model_weight file :https://drive.google.com/drive/folders/177TKWcK_FcRCaKnAEtkeHik7PY8TBufN?usp=drive_link
+2. scrip file :
+https://drive.google.com/drive/folders/177TKWcK_FcRCaKnAEtkeHik7PY8TBufN?usp=drive_link
+3. llm model :llama-3.3-70b-versatile

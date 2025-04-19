@@ -1,0 +1,82 @@
+=== EDA Report ===
+
+--- Basic Statistics ---
+Total Documents Analyzed: 248
+Total Entities Found: 5242
+Total Triples Found: 3237
+Avg Entities per Document: 21.14
+Avg Triples per Document: 13.05
+
+--- Domain Analysis ---
+Total Unique Domains: 1
+Domain Distribution:
+  - Unknown: 248 documents (100.0%)
+
+--- Title Analysis ---
+Documents with Titles: 248 (100.0%)
+Average Title Length: 20.0 characters
+Median Title Length: 18.0 characters
+Shortest Title: 4 characters
+Longest Title: 64 characters
+
+Most Common Words in Titles (excluding short words):
+  - 'philosophy': 3
+  - 'open': 2
+  - 'anthropocene_working_group': 1
+  - 'applied_history': 1
+  - 'bolognese_bell_ringing': 1
+  - 'cylinder_audio_archive': 1
+  - 'drug_education': 1
+  - 'environmental_studies': 1
+  - 'essay_on_a_course_of_liberal_education_for_civil_and_active_life': 1
+  - 'legal_archaeology': 1
+  - 'literary_nonsense': 1
+  - 'philosophy_of_design': 1
+  - 'the_art_assignment': 1
+  - 'the_problems_of_genocide': 1
+  - 'the_sexual_contract': 1
+
+--- Metadata & Label Sets ---
+No top-level metadata keys identified.
+
+--- Entity Analysis ---
+Total Unique Entity Types: 383
+Most Common Entity Types (Top 10):
+  - person: 752
+  - organization: 751
+  - geo-political entity: 387
+  - location: 293
+  - event: 168
+  - date: 164
+  - product: 164
+  - misc: 145
+  - concept: 119
+  - facility: 99
+
+Total Unique Entity Mentions: 4749
+Most Common Entity Mentions (Top 10):
+  - 'United States': 48
+  - 'United Kingdom': 18
+  - 'China': 14
+  - 'India': 14
+  - 'Canada': 12
+  - 'Germany': 10
+  - 'Italy': 9
+  - 'France': 9
+  - 'Europe': 9
+  - 'Japan': 9
+
+--- Relation Analysis ---
+Total Unique Relation Types: 543
+Most Common Relation Types (Top 10):
+  - instance of: 220
+  - has part(s): 177
+  - applies to jurisdiction: 138
+  - part of: 131
+  - author: 130
+  - located in the administrative territorial entity: 126
+  - contains the administrative territorial entity: 100
+  - uses: 72
+  - field of work: 70
+  - influenced by: 58
+==================
