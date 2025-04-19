@@ -170,13 +170,13 @@ The DocIE dataset includes 34 diverse domains. You can download it from the offi
 
 Our approach achieved top-2 performance in the DocIE shared task with balanced results across entity and relation extraction:
 
-| Metric | Score |
-|--------|-------|
-| F1_EI  | 75.4% |
-| F1_EC  | 72.3% |
-| F1_REG | 63.2% |
-| F1_RES | 58.9% |
-
+| Metric     | Score |
+|------------|-------|
+| F1_EI      | 55.65 |
+| F1_EC      | 26.11 |
+| F1_REG     | 4.19  |
+| F1_RES     | 4.01  |
+| Overall F1 | 22.49 |
 ## Citation
 
 If you find our work useful, please cite our paper:
