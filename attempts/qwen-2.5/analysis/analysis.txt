@@ -10,7 +10,8 @@ Document statistics saved to attempts/qwen-2.5/analysis\document_statistics.csv
 --- Basic Statistics ---
 Total Test Documents: 243
 
-No document content found for analysis.
+Total Entities Found: 5242
+Total Triples Found: 3237
 
 --- Domain Analysis ---
 Total Unique Domains: 1
