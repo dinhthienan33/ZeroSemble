@@ -164,7 +164,7 @@ def generate_relation_prompt(document, entities_list, doc_id):
 ## Dataset
 
 The DocIE dataset includes 34 diverse domains. You can download it from the official shared task website:
-[XLLM @ ACL 2025 Shared Task-IV](https://xllm-docie-2025.github.io/datasets/)
+[XLLM @ ACL 2025 Shared Task-IV](https://xllms.github.io/DocIE/)
 
 ## Results
 
