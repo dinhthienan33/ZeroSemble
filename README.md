@@ -182,15 +182,16 @@ Our approach achieved top-2 performance in the DocIE shared task with balanced r
 If you find our work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{zerosemble2025,
-  title={ZeroSemble: Robust and Efficient Zero-Shot Document Information Extraction with Heterogeneous LLM Ensembles},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of the Workshop on Cross-Lingual Large Language Models (XLLM) @ ACL 2025},
-  year={2025},
-  publisher={Association for Computational Linguistics},
-  url={https://aclanthology.org/2025.xllm-1.42/},
-  pages={420--432}
+
+@misc{zerosemble2025,
+  title = {ZeroSemble: Robust and Efficient Zero-Shot Document Information Extraction with Heterogeneous LLM Ensembles},
+  author = {Nguyen Pham Hoang Le and An Dinh Thien and Son T. Luu and Kiet Van Nguyen},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/dinhthienan33/ZeroSemble}}
 }
+
 ```
 
 ## License
