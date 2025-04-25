@@ -98,7 +98,7 @@ Our implementation includes robust error handling and API key cycling to handle 
 
 ```python
 # Example from llm-approach.ipynb
-def query_groq_api(prompt, model="deepseek-r1-176b", retry_count=0, max_retries=5):
+def query_groq_api(prompt, model="deepseek-r1-distill-llama-70b", retry_count=0, max_retries=5):
     try:
         response = client.chat.completions.create(
             model=model,
