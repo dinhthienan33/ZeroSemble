@@ -8,7 +8,7 @@ This repository contains the official implementation for our paper "ZeroSemble: 
 
 ZeroSemble is a zero-shot ensemble approach that leverages multiple large language models to extract entities and relations from documents without domain-specific training. Our system achieved top performance in the XLLM @ ACL 2025 Shared Task-IV: Universal Document-level Information Extraction (DocIE).
 
-![Architecture](../my-paper/latex/pic/xllm.jpg)
+![Architecture](../xllm.jpg)
 
 ### Key Features
 
