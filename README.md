@@ -2,7 +2,6 @@
 
 This repository contains the official implementation for our paper "ZeroSemble: Robust and Efficient Zero-Shot Document Information Extraction with Heterogeneous LLM Ensembles" accepted at XLLM @ ACL 2025 Shared Task-IV: Universal Document-level Information Extraction (DocIE).
 
-📄 [Paper Link](https://aclanthology.org/2025.xllm-1.42/)
 
 ## Overview
 
