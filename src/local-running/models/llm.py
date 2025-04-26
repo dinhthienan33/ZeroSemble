@@ -49,9 +49,9 @@ class ModelManager:
     A class to manage multiple LLM models and provide a unified interface.
     """
     AVAILABLE_MODELS = {
-        "qwen": "Qwen/Qwen2.5-14B-Instruct",
+        "qwen": "Qwen/Qwen2.5-32B",
         "deepseek": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-        "llama": "meta-llama/Llama-3.3-70B-Instruct"
+        "llama": "meta-llama/Llama-3.3-70B"
     }
     
     def __init__(self, use_models: List[str] = None, load_all: bool = False):
