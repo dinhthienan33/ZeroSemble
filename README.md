@@ -115,7 +115,7 @@ def query_groq_api(prompt, model="deepseek-r1-distill-llama-70b", retry_count=0,
             print(f"Failed after {max_retries} retries: {e}")
             return None
 ```
-
+*NOTE: We have known that qwen 2.5-32b has been deleted by Groq few days ago. If you want to get the result file of qwen 2.5, you can use our result.json in attempts/qwen-2.5/results.json
 ### Entity Consolidation
 
 The `combine.py` script implements our entity consolidation algorithm, which handles:
