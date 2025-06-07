@@ -182,7 +182,7 @@ If you find our work useful, please cite our paper:
 
 ```bibtex
 
-@inproceedings{le-etal-2025-zerosemble,
+@misc{le-etal-2025-zerosemble,
   title = {ZeroSemble: Robust and Efficient Zero-Shot Document Information Extraction with Heterogeneous LLM Ensembles},
   author = {Nguyen Pham Hoang Le and An Dinh Thien and Son T. Luu and Kiet Van Nguyen},
   year = {2025},
