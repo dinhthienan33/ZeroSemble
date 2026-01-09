@@ -181,16 +181,36 @@ Our approach achieved top-2 performance in the DocIE shared task with balanced r
 If you find our work useful, please cite our paper:
 
 ```bibtex
-
-@misc{le-etal-2025-zerosemble,
-  title = {ZeroSemble: Robust and Efficient Zero-Shot Document Information Extraction with Heterogeneous LLM Ensembles},
-  author = {Nguyen Pham Hoang Le and An Dinh Thien and Son T. Luu and Kiet Van Nguyen},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/dinhthienan33/ZeroSemble}}
+@inproceedings{le-etal-2025-docie,
+    title = "{D}oc{IE}@{XLLM}25: {Z}ero{S}emble - Robust and Efficient Zero-Shot Document Information Extraction with Heterogeneous Large Language Model Ensembles",
+    author = "Pham Hoang Le, Nguyen  and
+      Dinh Thien, An  and
+      T. Luu, Son  and
+      Van Nguyen, Kiet",
+    editor = "Fei, Hao  and
+      Tu, Kewei  and
+      Zhang, Yuhui  and
+      Hu, Xiang  and
+      Han, Wenjuan  and
+      Jia, Zixia  and
+      Zheng, Zilong  and
+      Cao, Yixin  and
+      Zhang, Meishan  and
+      Lu, Wei  and
+      Siddharth, N.  and
+      {\O}vrelid, Lilja  and
+      Xue, Nianwen  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 1st Joint Workshop on Large Language Models and Structure Modeling (XLLM 2025)",
+    month = aug,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.xllm-1.25/",
+    doi = "10.18653/v1/2025.xllm-1.25",
+    pages = "288--297",
+    ISBN = "979-8-89176-286-2"
 }
-
 ```
 
 ## License
